@@ -1,14 +1,29 @@
-# 👋 Hi there!
+<h1 align="center">👋 Hey there, I'm Afrah Nakanwagi!</h1>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=afrahnakanwagi&style=flat-square&color=5D5CDE)
+<p align="center">
+  <b>Software Developer & UI/UX Designer</b> <br>
+  <i>Kampala, Uganda · She/Her</i> <br><br>
+  <a href="mailto:afrahnakanwagi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afrahnakanwagi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+256768917360">
+    <img src="https://img.shields.io/badge/Phone-%2B256%20768917360-blue?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/">
+    <img src="https://img.shields.io/badge/LinkedIn-Afrah_Nakanwagi-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/naiyosh28792">
+    <img src="https://img.shields.io/badge/X-@naiyosh28792-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/afrahnakanwagi">
+    <img src="https://img.shields.io/badge/GitHub-afrahnakanwagi-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### **Afrah Nakanwagi**  
-**Software Developer & UI/UX Designer | Kampala, Uganda**  
-_She/Her_  
-📧 [afrahnakanwagi@gmail.com](mailto:afrahnakanwagi@gmail.com) | 📞 [+256 768917360](tel:+256768917360)  
-🔗 [LinkedIn](https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/) • [X](https://x.com/naiyosh28792) • [GitHub](https://github.com/afrahnakanwagi)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afrahnakanwagi&style=flat-square&color=5D5CDE" alt="Visitor Badge"/>
+</p>
 
----
 
 ### 🚀 About Me
 
