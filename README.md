@@ -2,7 +2,6 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=afrahnakanwagi&style=flat-square&color=5D5CDE)
 
-## ![Afrah Nakanwagi](https://via.placeholder.com/150)  
 ### **Afrah Nakanwagi**  
 **Software Developer & UI/UX Designer | Kampala, Uganda**  
 _She/Her_  
@@ -66,7 +65,6 @@ My mission is to build seamless, impactful applications that solve real-world pr
 - 🌐 Open-source web projects (HTML, CSS, Python)  
 - 🛒 E-commerce platforms for local creators  
 - 🧩 UI/UX projects to improve user flow  
-- 🌱 Ed-tech & agro-tech initiatives
 
 ---
 
@@ -74,7 +72,7 @@ My mission is to build seamless, impactful applications that solve real-world pr
 
 - ✅ **3+ Projects** completed (Grocery System, E-commerce platforms)  
 - 📜 **4 Certifications** earned (Python, UI/UX, React.js)  
-- 👩🏽‍💻 **Led 2 team projects** (e.g., Xtreative Market with 7 team members)
+- 👩🏽‍💻 **Led 1 team projects** (e.g., Xtreative Market with 7 team members)
 
 ---
 
