@@ -23,8 +23,6 @@
             width: 100%;
             max-width: 900px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-            position: relative;
-            overflow: hidden;
         }
         .header {
             text-align: center;
@@ -35,13 +33,11 @@
             margin: 0;
             font-size: 2em;
             color: #5D5CDE;
-            animation: fadeIn 2s ease-in-out;
         }
         .profile {
             display: flex;
             align-items: center;
             padding: 20px;
-            position: relative;
         }
         .profile-img {
             width: 120px;
@@ -49,7 +45,6 @@
             border-radius: 50%;
             border: 4px solid #5D5CDE;
             margin-right: 20px;
-            animation: float 3s infinite ease-in-out;
         }
         .profile-info h2 {
             margin: 0;
@@ -72,17 +67,12 @@
             padding: 5px 10px;
             border-radius: 15px;
             font-size: 0.8em;
-            cursor: default;
         }
         .section {
             margin: 20px 0;
             padding: 15px;
             background: rgba(255, 255, 255, 0.05);
             border-radius: 10px;
-            transition: transform 0.3s ease;
-        }
-        .section:hover {
-            transform: translateY(-5px);
         }
         .section h3 {
             color: #5D5CDE;
@@ -100,46 +90,12 @@
             color: #fff;
             padding: 5px 10px;
             border-radius: 20px;
-            animation: pulse 2s infinite;
         }
         .project {
             margin: 10px 0;
             padding: 10px;
             background: rgba(93, 92, 222, 0.1);
             border-left: 4px solid #5D5CDE;
-            transition: all 0.3s ease;
-        }
-        .project:hover {
-            background: rgba(93, 92, 222, 0.2);
-        }
-        .animated-character {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            width: 80px;
-            height: 80px;
-            background: url('https://i.imgur.com/placeholder-character.png') no-repeat;
-            animation: move 5s infinite linear;
-            opacity: 0.7;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-        @keyframes float {
-            0% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-            100% { transform: translateY(0); }
-        }
-        @keyframes pulse {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.1); }
-            100% { transform: scale(1); }
-        }
-        @keyframes move {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(50px) rotate(10deg); }
-            100% { transform: translateX(0); }
         }
         @media (max-width: 600px) {
             .profile {
@@ -151,9 +107,6 @@
             }
             .profile-info {
                 margin-left: 0;
-            }
-            .animated-character {
-                display: none;
             }
         }
     </style>
@@ -233,6 +186,5 @@
             <p>Let's build something amazing together! Feel free to explore my repositories or reach out to discuss your next project.</p>
         </div>
     </div>
-    <div class="animated-character"></div>
 </body>
 </html>
