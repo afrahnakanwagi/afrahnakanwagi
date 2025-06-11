@@ -11,16 +11,9 @@
             <h1>👋 Hi, I'm Afrah Nakanwagi</h1>
         </div>
         <div class="profile">
-            <img src="https://via.placeholder.com/120" alt="Afrah Nakanwagi" class="profile-img">
             <div class="profile-info">
                 <h2>Afrah Nakanwagi</h2>
                 <p>Software Developer & UI/UX Designer | Kampala, Uganda</p>
-                <p>She/Her | Followers: 150 | Following: 50</p>
-                <div class="stats">
-                    <span class="stat-btn">👥 150</span>
-                    <span class="stat-btn">⭐ 50</span>
-                    <span class="stat-btn">📊 10</span>
-                </div>
             </div>
         </div>
         <div class="section">
@@ -65,9 +58,9 @@
         <div class="section">
             <h3>🏆 Achievements</h3>
             <ul>
-                <li>3+ Projects Completed: Including a grocery inventory system and e-commerce platforms.</li>
+                <li>2+ Projects Completed: Including a grocery inventory system and e-commerce platforms.</li>
                 <li>4 Certifications Earned: Including CSE Python (Refactory Academy) and UI/UX Design Basics (Simplilearn).</li>
-                <li>Led 2 Team Projects: Successfully guided a team of 7 to develop Xtreative Market.</li>
+                <li>Led 1 Team Projects: Successfully guided a team of 7 to develop Xtreative Market.</li>
             </ul>
         </div>
         <div class="section">
