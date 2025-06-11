@@ -10,51 +10,69 @@
             background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
             color: #e0e0e0;
             margin: 0;
-            padding: 20px;
-            line-height: 1.6;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
         }
         .container {
-            max-width: 900px;
-            margin: 0 auto;
             background: rgba(15, 12, 41, 0.9);
             border-radius: 15px;
             padding: 20px;
+            width: 100%;
+            max-width: 900px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            position: relative;
+            overflow: hidden;
         }
         .header {
             text-align: center;
-            padding: 20px;
+            padding: 20px 0;
             border-bottom: 2px solid #5D5CDE;
         }
         .header h1 {
             margin: 0;
-            font-size: 2.5em;
+            font-size: 2em;
             color: #5D5CDE;
             animation: fadeIn 2s ease-in-out;
         }
         .profile {
             display: flex;
             align-items: center;
-            margin: 20px 0;
+            padding: 20px;
+            position: relative;
         }
-        .profile img {
-            width: 150px;
-            height: 150px;
+        .profile-img {
+            width: 120px;
+            height: 120px;
             border-radius: 50%;
             border: 4px solid #5D5CDE;
+            margin-right: 20px;
             animation: float 3s infinite ease-in-out;
-        }
-        .profile-info {
-            margin-left: 20px;
         }
         .profile-info h2 {
             margin: 0;
-            font-size: 1.8em;
+            font-size: 1.5em;
             color: #fff;
         }
         .profile-info p {
             margin: 5px 0;
             color: #b0b0b0;
+            font-size: 0.9em;
+        }
+        .stats {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .stat-btn {
+            background: #5D5CDE;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.8em;
+            cursor: default;
         }
         .section {
             margin: 20px 0;
@@ -98,9 +116,9 @@
             position: absolute;
             top: 20px;
             right: 20px;
-            width: 100px;
-            height: 100px;
-            background: url('https://i.imgur.com/animated-character.png') no-repeat;
+            width: 80px;
+            height: 80px;
+            background: url('https://i.imgur.com/placeholder-character.png') no-repeat;
             animation: move 5s infinite linear;
             opacity: 0.7;
         }
@@ -128,11 +146,14 @@
                 flex-direction: column;
                 text-align: center;
             }
-            .profile img {
+            .profile-img {
                 margin-bottom: 10px;
             }
             .profile-info {
                 margin-left: 0;
+            }
+            .animated-character {
+                display: none;
             }
         }
     </style>
@@ -140,15 +161,19 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>👋 Hi there!</h1>
+            <h1>👋 Hi, I'm Afrah Nakanwagi</h1>
         </div>
         <div class="profile">
-            <img src="https://via.placeholder.com/150" alt="Afrah Nakanwagi">
+            <img src="https://via.placeholder.com/120" alt="Afrah Nakanwagi" class="profile-img">
             <div class="profile-info">
                 <h2>Afrah Nakanwagi</h2>
                 <p>Software Developer & UI/UX Designer | Kampala, Uganda</p>
-                <p>She/Her | <a href="mailto:afrahnakanwagi@gmail.com" style="color: #5D5CDE;">afrahnakanwagi@gmail.com</a> | <a href="tel:+256768917360" style="color: #5D5CDE;">+256 768917360</a></p>
-                <p><a href="https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/" style="color: #5D5CDE;">LinkedIn</a> | <a href="https://x.com/naiyosh28792" style="color: #5D5CDE;">X: @naiyosh28792</a> | <a href="https://github.com/afrahnakanwagi" style="color: #5D5CDE;">GitHub</a></p>
+                <p>She/Her | Followers: 150 | Following: 50</p>
+                <div class="stats">
+                    <span class="stat-btn">👥 150</span>
+                    <span class="stat-btn">⭐ 50</span>
+                    <span class="stat-btn">📊 10</span>
+                </div>
             </div>
         </div>
         <div class="section">
@@ -172,16 +197,6 @@
                 <li>Enhancing my skills in CI/CD pipelines to improve deployment workflows.</li>
                 <li>Experimenting with advanced Python frameworks to build robust backend systems.</li>
                 <li>Staying updated with the latest UI/UX trends to create modern, user-friendly designs.</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h3>👯 Open to Collaboration</h3>
-            <p>I'm excited to collaborate on:</p>
-            <ul>
-                <li>Open-source web development projects using HTML, CSS, or Python.</li>
-                <li>E-commerce platforms that empower local businesses and artisans.</li>
-                <li>UI/UX design projects to create intuitive and visually appealing interfaces.</li>
-                <li>Innovative Agro-tech or Ed-tech solutions that make a difference in communities.</li>
             </ul>
         </div>
         <div class="section">
@@ -209,42 +224,9 @@
             </ul>
         </div>
         <div class="section">
-            <h3>📚 Featured Projects</h3>
-            <div class="project">
-                <strong>Grocery Inventory Management</strong><br>
-                <em>Tech Stack:</em> Django, Python, HTML, CSS<br>
-                A web application for grocery stores to manage inventory and sales, with real-time stock tracking and sales reports.
-            </div>
-            <div class="project">
-                <strong>Xtreative Market</strong><br>
-                <em>Role:</em> Team Lead & Backend Developer<br>
-                <em>Tech Stack:</em> Django, Python, Mobile & Web Apps<br>
-                An e-commerce platform connecting local artisans with customers, featuring vendor management and funding applications.
-            </div>
-            <div class="project">
-                <strong>Recipe Finder App</strong><br>
-                <em>Tech Stack:</em> React.js, APIs<br>
-                A dynamic app for discovering recipes based on ingredients or cuisine, with a responsive and intuitive UI.
-            </div>
-            <div class="project">
-                <strong>Agro-Tourism Website</strong><br>
-                <em>Tech Stack:</em> Figma, UI/UX Design<br>
-                Designed service pages for Mukisa Enterprises, focusing on farm tours and sustainable farming education.
-            </div>
-            <p><a href="https://github.com/afrahnakanwagi?tab=repositories" style="color: #5D5CDE;">Check out more on GitHub Projects</a></p>
-        </div>
-        <div class="section">
-            <h3>🏅 Certifications</h3>
-            <ul>
-                <li>CSE Python - Refactory Academy (Dec 2024)</li>
-                <li>UI/UX Design Basics - Simplilearn (Dec 2024)</li>
-                <li>React JS Basics - Simplilearn (Dec 2024)</li>
-                <li>Python - Kaggle (Dec 2024)</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h3>📄 Download My Resume</h3>
-            <p><a href="https://amber-ericha-96.tiiny.site" style="color: #5D5CDE;">Download Resume</a> - Get a detailed look at my experience and skills.</p>
+            <h3>📫 How to Reach Me</h3>
+            <p><a href="mailto:afrahnakanwagi@gmail.com" style="color: #5D5CDE;">afrahnakanwagi@gmail.com</a> | <a href="tel:+256768917360" style="color: #5D5CDE;">+256 768917360</a></p>
+            <p><a href="https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/" style="color: #5D5CDE;">LinkedIn</a> | <a href="https://x.com/naiyosh28792" style="color: #5D5CDE;">X: @naiyosh28792</a> | <a href="https://github.com/afrahnakanwagi" style="color: #5D5CDE;">GitHub</a></p>
         </div>
         <div class="section">
             <h3>🚀 Let's Connect</h3>
@@ -252,12 +234,5 @@
         </div>
     </div>
     <div class="animated-character"></div>
-    <script>
-        // Simple animation for character (placeholder, replace with actual image URL)
-        const character = document.querySelector('.animated-character');
-        setInterval(() => {
-            character.style.opacity = Math.random() > 0.5 ? 0.7 : 0.3;
-        }, 1000);
-    </script>
 </body>
 </html>
