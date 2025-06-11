@@ -50,7 +50,7 @@ I'm excited to collaborate on:
 
 
 
-Open-source web development projects using HTML, CSS, JavaScript, or Python.
+Open-source web development projects using HTML, CSS, or Python.
 
 
 
@@ -114,7 +114,7 @@ Phone: +256 768917360
 
 
 
-LinkedIn: Afrah Nakanwagi
+LinkedIn: [Afrah Nakanwagi](https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/)
 
 
 
