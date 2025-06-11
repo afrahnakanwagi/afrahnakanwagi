@@ -1,77 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# 👋 Hi, I'm Afrah Nakanwagi
 
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>👋 Hi, I'm Afrah Nakanwagi</h1>
-        </div>
-        <div class="profile">
-            <div class="profile-info">
-                <h2>Afrah Nakanwagi</h2>
-                <p>Software Developer & UI/UX Designer | Kampala, Uganda</p>
-            </div>
-        </div>
-        <div class="section">
-            <h3>🚀 About Me</h3>
-            <p>I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda. With over a year of experience, I craft user-centric, responsive, and innovative digital solutions that blend technical expertise with creative design. My mission is to build seamless, impactful applications that solve real-world problems.</p>
-            <p><strong>Fun Fact:</strong> I once designed an entire Agro-Tourism website in Figma in just 48 hours to meet a tight deadline, and it was a hit with the client! When I'm not coding or designing, you can find me exploring Kampala's vibrant food scene or sketching new UI ideas.</p>
-        </div>
-        <div class="section">
-            <h3>🔭 What I'm Working On</h3>
-            <ul>
-                <li>Developing web applications with Django, Python, and React.js to streamline business operations.</li>
-                <li>Designing intuitive UI/UX interfaces using Figma to enhance user experiences.</li>
-                <li>Leading team projects to create dynamic platforms like Xtreative Market, connecting local creatives with customers.</li>
-                <li>Exploring advanced backend development techniques with RESTful APIs and PostgreSQL.</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h3>🌱 What I'm Learning</h3>
-            <ul>
-                <li>Deepening my expertise in React.js for scalable frontend development.</li>
-                <li>Enhancing my skills in CI/CD pipelines to improve deployment workflows.</li>
-                <li>Experimenting with advanced Python frameworks to build robust backend systems.</li>
-                <li>Staying updated with the latest UI/UX trends to create modern, user-friendly designs.</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h3>🛠️ My Tech Stack</h3>
-            <div class="tech-stack">
-                <span class="tech-item">HTML5</span>
-                <span class="tech-item">CSS</span>
-                <span class="tech-item">React.js</span>
-                <span class="tech-item">WordPress</span>
-                <span class="tech-item">Python</span>
-                <span class="tech-item">Django</span>
-                <span class="tech-item">RESTful APIs</span>
-                <span class="tech-item">PostgreSQL</span>
-                <span class="tech-item">Figma</span>
-                <span class="tech-item">Git</span>
-                <span class="tech-item">CI/CD</span>
-            </div>
-        </div>
-        <div class="section">
-            <h3>🏆 Achievements</h3>
-            <ul>
-                <li>2+ Projects Completed: Including a grocery inventory system and e-commerce platforms.</li>
-                <li>4 Certifications Earned: Including CSE Python (Refactory Academy) and UI/UX Design Basics (Simplilearn).</li>
-                <li>Led 1 Team Projects: Successfully guided a team of 7 to develop Xtreative Market.</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h3>📫 How to Reach Me</h3>
-            <p><a href="mailto:afrahnakanwagi@gmail.com" style="color: #5D5CDE;">afrahnakanwagi@gmail.com</a> | <a href="tel:+256768917360" style="color: #5D5CDE;">+256 768917360</a></p>
-            <p><a href="https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/" style="color: #5D5CDE;">LinkedIn</a> | <a href="https://x.com/naiyosh28792" style="color: #5D5CDE;">X: @naiyosh28792</a> | <a href="https://github.com/afrahnakanwagi" style="color: #5D5CDE;">GitHub</a></p>
-        </div>
-        <div class="section">
-            <h3>🚀 Let's Connect</h3>
-            <p>Let's build something amazing together! Feel free to explore my repositories or reach out to discuss your next project.</p>
-        </div>
-    </div>
-</body>
-</html>
+### 💻 Software Developer & UI/UX Designer | 📍 Kampala, Uganda
+
+---
+
+## 🚀 About Me
+
+I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda. With over a year of experience, I craft user-centric, responsive, and innovative digital solutions that blend technical expertise with creative design.
+
+> 💡 **Fun Fact:** I once designed an entire Agro-Tourism website in Figma in just 48 hours!  
+> When I'm not coding or designing, you’ll find me exploring Kampala’s vibrant food scene or sketching new UI ideas.
+
+---
+
+## 🔭 What I'm Working On
+
+- Building web applications with **Django**, **Python**, and **React.js**
+- Designing intuitive interfaces using **Figma**
+- Leading team projects like **Xtreative Market**
+- Exploring advanced backend techniques using **RESTful APIs** and **PostgreSQL**
+
+---
+
+## 🌱 What I'm Learning
+
+- Mastering **React.js** for scalable frontend architecture
+- CI/CD pipelines for efficient **DevOps** workflows
+- Advanced **Python** backend frameworks
+- Cutting-edge **UI/UX** trends & design systems
+
+---
+
+## 🛠️ My Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-009688?style=flat)
+
+---
+
+## 🏆 Achievements
+
+- ✅ **2+ Projects Completed** – From inventory systems to e-commerce platforms
+- 🎓 **4 Certifications Earned** – e.g., CSE Python (Refactory Academy), UI/UX (Simplilearn)
+- 👥 **Led 1 Team Project** – Developed *Xtreative Market* with a team of 7
+
+---
+
+## 📫 Let's Connect
+
+📧 [afrahnakanwagi@gmail.com](mailto:afrahnakanwagi@gmail.com)  
+📞 [+256 768917360](tel:+256768917360)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/naiyosh28792)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/afrahnakanwagi)
+
+---
+
+## 🤝 Let’s Build Something Amazing
+
+Feel free to explore my repositories or reach out — I’m always excited to collaborate on meaningful projects!
+
+---
