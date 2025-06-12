@@ -3,7 +3,7 @@
 <p align="center">
   <b>Software Developer & UI/UX Designer</b> <br>
   <i>Kampala, Uganda · She/Her</i> <br><br>
-  <a href="mailto:afrahnakanwagi@gmail.com">
+  <a href="mailto:afrahnakanwagi@gmail.com - 181717">
     <img src="https://img.shields.io/badge/Email-afrahnakanwagi@gmail.com-5D5CDE?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+256768917360">
