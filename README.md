@@ -86,11 +86,29 @@ I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda.
 
 ---
 
-### 🏆 Achievements
+###🏆 Achievements
 
-- ✅ **3+ Projects** completed (Grocery System, E-commerce platforms)  
-- 📜 **4 Certifications** earned (Python, UI/UX, React.js)  
-- 👩🏽‍💻 **Led 1 team project** (Xtreative Market)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/✅_Projects_Completed-3+-black?style=for-the-badge&logo=github&logoColor=white" /><br>
+        <sub>Grocery System, E-commerce platforms</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/📜_Certifications_Earned-4-black?style=for-the-badge&logo=python&logoColor=white" /><br>
+        <sub>Python, UI/UX, React.js</sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://img.shields.io/badge/👩🏽‍💻_Team_Project_Led-1-black?style=for-the-badge&logo=django&logoColor=white" /><br>
+        <sub>Xtreative Market</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
