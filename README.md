@@ -135,4 +135,4 @@ Explore my [GitHub Repos](https://github.com/afrahnakanwagi?tab=repositories) or
 
 ---
 
-> _"Design is intelligence made visible." — Alina Wheeler_
+> _"Design is intelligence made visible."  Alina Wheeler_
