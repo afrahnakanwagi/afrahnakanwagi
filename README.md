@@ -91,22 +91,22 @@ I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda.
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://img.shields.io/badge/✅_Projects_Completed-3+-black?style=for-the-badge&logo=github&logoColor=white" /><br>
-        <sub>Grocery System, E-commerce platforms</sub>
+        <sub><strong>Projects:</strong><br>Grocery System, E-commerce platforms</sub>
       </td>
-      <td>
+      <td align="center">
         <img src="https://img.shields.io/badge/📜_Certifications_Earned-4-black?style=for-the-badge&logo=python&logoColor=white" /><br>
-        <sub>Python, UI/UX, React.js</sub>
+        <sub><strong>Certifications:</strong><br>Python, UI/UX, React.js</sub>
       </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      <td align="center">
         <img src="https://img.shields.io/badge/👩🏽‍💻_Team_Project_Led-1-black?style=for-the-badge&logo=django&logoColor=white" /><br>
-        <sub>Xtreative Market</sub>
+        <sub><strong>Leadership:</strong><br>Xtreative Market</sub>
       </td>
     </tr>
   </table>
+</div>
+
 </div>
 
 
