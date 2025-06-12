@@ -25,7 +25,7 @@
 </p>
 
 
-### 🚀 About Me
+### ABOUT ME
 
 I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda. With over a year of experience, I craft user-centric, responsive, and innovative digital solutions that blend technical expertise with creative design.  
 My mission is to build seamless, impactful applications that solve real-world problems.
@@ -34,7 +34,7 @@ My mission is to build seamless, impactful applications that solve real-world pr
 
 ---
 
-### 🧰 Tech Stack
+### TECH STACK
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +50,7 @@ My mission is to build seamless, impactful applications that solve real-world pr
 
 ---
 
-### 📊 GitHub Stats
+### GITHUB STATS
 
 ![Afrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrahnakanwagi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrahnakanwagi&layout=compact&theme=tokyonight)
@@ -122,13 +122,13 @@ My mission is to build seamless, impactful applications that solve real-world pr
 
 ---
 
-### 📄 [Download My Resume](https://amber-ericha-96.tiiny.site)
+### 📄 [View My Resume](https://amber-ericha-96.tiiny.site)
 
 Take a deeper look at my experience and skill set.
 
 ---
 
-### 🚀 Let's Connect
+### Let's Connect
 
 Let's build something amazing together!  
 Explore my [GitHub Repos](https://github.com/afrahnakanwagi?tab=repositories) or [drop me a message](mailto:afrahnakanwagi@gmail.com) to collaborate.
