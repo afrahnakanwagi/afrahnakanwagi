@@ -1,56 +1,59 @@
-<h1 align="center">👋 Hey there, I'm Afrah Nakanwagi!</h1>
+<h1 align="center" style="color:#0A0A23;">👋 Hey there, I'm Afrah Nakanwagi!</h1>
 
 <p align="center">
-  <b>Software Developer & UI/UX Designer</b> <br>
-  <i>Kampala, Uganda · She/Her</i> <br><br>
-  <a href="mailto:afrahnakanwagi@gmail.com -">
-    <img src="https://img.shields.io/badge/Email-afrahnakanwagi@gmail.com-5D5CDE?style=flat&logo=gmail&logoColor=white" />
+  <b style="color:#1E2A78;">Software Developer & UI/UX Designer</b><br>
+  <i>Kampala, Uganda · She/Her</i><br><br>
+
+  <a href="mailto:afrahnakanwagi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afrahnakanwagi@gmail.com-1E2A78?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+256768917360">
-    <img src="https://img.shields.io/badge/Phone-%2B256%20768917360-5D5CDE?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-%2B256%20768917360-1E2A78?style=flat&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/">
-    <img src="https://img.shields.io/badge/LinkedIn-Afrah_Nakanwagi-5D5CDE?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Afrah_Nakanwagi-1E2A78?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/naiyosh28792">
-    <img src="https://img.shields.io/badge/X-@naiyosh28792-5D5CDE?style=flat&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@naiyosh28792-1E2A78?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/afrahnakanwagi">
-    <img src="https://img.shields.io/badge/GitHub-afrahnakanwagi-5D5CDE?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-afrahnakanwagi-1E2A78?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afrahnakanwagi&style=flat-square&color=5D5CDE" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=afrahnakanwagi&style=flat-square&color=1E2A78" alt="Visitor Badge"/>
 </p>
 
+---
 
-### ABOUT ME
+###  About Me
 
-I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda. With over a year of experience, I craft user-centric, responsive, and innovative digital solutions that blend technical expertise with creative design.  
-My mission is to build seamless, impactful applications that solve real-world problems.
+I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda. With over a year of experience, I craft user-centric, responsive, and innovative digital solutions that blend technical expertise with creative design. 
 
-> 💡 **Fun Fact**: I once designed an entire Agro-Tourism website in Figma in just 48 hours to meet a tight deadline and the client loved it!
+> 💡 **Fun Fact:** I once designed an entire Agro-Tourism website in Figma in just 48 hours and the client loved it!
 
 ---
 
-### TECH STACK
+### Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=github-actions&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+</p>
 
 ---
 
-### GITHUB STATS
+### GitHub Stats
 
 ![Afrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrahnakanwagi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrahnakanwagi&layout=compact&theme=tokyonight)
@@ -75,7 +78,7 @@ My mission is to build seamless, impactful applications that solve real-world pr
 
 ---
 
-### 👯 Open to Collaboration
+### 🤝 Open to Collaboration
 
 - 🌐 Open-source web projects (HTML, CSS, Python)  
 - 🛒 E-commerce platforms for local creators  
@@ -87,7 +90,7 @@ My mission is to build seamless, impactful applications that solve real-world pr
 
 - ✅ **3+ Projects** completed (Grocery System, E-commerce platforms)  
 - 📜 **4 Certifications** earned (Python, UI/UX, React.js)  
-- 👩🏽‍💻 **Led 1 team projects** (e.g., Xtreative Market with 7 team members)
+- 👩🏽‍💻 **Led 1 team project** (Xtreative Market)
 
 ---
 
@@ -128,11 +131,11 @@ Take a deeper look at my experience and skill set.
 
 ---
 
-### Let's Connect
+### 🤝 Let's Connect
 
 Let's build something amazing together!  
 Explore my [GitHub Repos](https://github.com/afrahnakanwagi?tab=repositories) or [drop me a message](mailto:afrahnakanwagi@gmail.com) to collaborate.
 
 ---
 
-> _"Design is intelligence made visible."  Alina Wheeler_
+> _"Design is intelligence made visible." Alina Wheeler
