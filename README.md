@@ -4,16 +4,16 @@
   <b>Software Developer & UI/UX Designer</b> <br>
   <i>Kampala, Uganda · She/Her</i> <br><br>
   <a href="mailto:afrahnakanwagi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-afrahnakanwagi@gmail.com-181717?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-afrahnakanwagi@gmail.com-5D5CDE?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+256768917360">
-    <img src="https://img.shields.io/badge/Phone-%2B256%20768917360-181717?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-%2B256%20768917360-5D5CDE?style=flat&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/afrah-nakanwagi-b829a5314/">
-    <img src="https://img.shields.io/badge/LinkedIn-Afrah_Nakanwagi-181717?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Afrah_Nakanwagi-5D5CDE?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/naiyosh28792">
-    <img src="https://img.shields.io/badge/X-@naiyosh28792-181717?style=flat&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@naiyosh28792-5D5CDE?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/afrahnakanwagi">
     <img src="https://img.shields.io/badge/GitHub-afrahnakanwagi-5D5CDE?style=flat&logo=github&logoColor=white" />
