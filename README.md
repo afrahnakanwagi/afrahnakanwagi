@@ -52,10 +52,11 @@ I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda.
 
 ---
 
-### GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrahnakanwagi&show_icons=true&theme=tokyonight" alt="Afrah's GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahnakanwagi&layout=compact&theme=tokyonight" alt="Top Languages" width="340" />
+</div>
 
-![Afrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrahnakanwagi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrahnakanwagi&layout=compact&theme=tokyonight)
 
 ---
 
