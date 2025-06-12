@@ -30,7 +30,7 @@
 I'm a passionate Software Developer and UI/UX Designer based in Kampala, Uganda. With over a year of experience, I craft user-centric, responsive, and innovative digital solutions that blend technical expertise with creative design.  
 My mission is to build seamless, impactful applications that solve real-world problems.
 
-> 💡 **Fun Fact**: I once designed an entire Agro-Tourism website in Figma in just 48 hours to meet a tight deadline — and the client loved it!
+> 💡 **Fun Fact**: I once designed an entire Agro-Tourism website in Figma in just 48 hours to meet a tight deadline and the client loved it!
 
 ---
 
