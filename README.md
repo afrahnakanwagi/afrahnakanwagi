@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/X-@naiyosh28792-181717?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/afrahnakanwagi">
-    <img src="https://img.shields.io/badge/GitHub-afrahnakanwagi-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-afrahnakanwagi-5D5CDE?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
